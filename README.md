@@ -33,8 +33,8 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 - Passionate self-taught front-end developer
-- Enjoys playing CTFs in spare time
-- Actively learning web development independently
+- I like to play CTF in my spare time
+- I actively learn web development independently
 - Currently open to internship or new job opportunities
 
 
