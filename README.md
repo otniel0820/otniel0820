@@ -32,10 +32,11 @@
 <br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-- Passionate self-taught front-end developer
-- I like to play CTFs in my spare time
-- I actively learn web development independently
-- Currently open to internship or new job opportunities
+- Software developer with experience in leading backend teams within the fintech sector.
+- Currently working at a leading fintech, where I head the backend team to deliver scalable, robust solutions in the financial domain.
+- Specialized in microservices architecture to ensure reliability, performance, and security for critical financial services.
+- Passionate about continuously improving and innovating within backend development to create impactful, client-centered solutions.
+- Open to networking opportunities and collaboration with professionals in tech and finance.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
